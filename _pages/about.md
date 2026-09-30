@@ -9,9 +9,9 @@ redirect_from:
 
 <div style="padding-left: 2em;" markdown="1">
 
-![](/images/headshot_flowers.jpeg){: style="width: 50%; display: block; margin: 0 auto;"}
+![](/images/headshot_flowers.jpeg){: style="width: 33%; display: block; margin: 0 auto;"}
 
-![](/images/your_brain.JPG){: style="width: 50%; display: block; margin: 0 auto;"}
+![](/images/your_brain.JPG){: style="width: 33%; display: block; margin: 0 auto;"}
 
 I'm a PhD student in Psychology at Northeastern University, working in the
 [Learning and Brain Development Lab](https://lbdlpsych.sites.northeastern.edu/)
@@ -21,8 +21,11 @@ and prosocial motivations shape risky decision-making. My work combines
 behavioral tasks, computational modeling, and neuroimaging. 
 
 Broadly, I'm interested in **change**: 
+
 how is cognition influenced by changes around us, 
+
 how do we flexibly adapt to unpredictability, 
+
 and how do brain systems involved in learning and memory change through the lifespan?
 
 Before Northeastern, I was lab manager of the [Developmental Affective
