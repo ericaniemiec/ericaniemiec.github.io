@@ -22,12 +22,9 @@ and prosocial motivations shape risky decision-making. My work combines
 behavioral tasks, computational modeling, and neuroimaging. 
 
 Broadly, I'm interested in **change**: 
-
-how is cognition influenced by changes around us, 
-
-how do we flexibly adapt to unpredictability, 
-
-and how do brain systems involved in learning and memory change through the lifespan?
+&emsp;&emsp;how is cognition influenced by changes around us, 
+&emsp;&emsp;how do we flexibly adapt to unpredictability, 
+&emsp;&emsp;and how do brain systems involved in learning and memory change through the lifespan?
 
 Before Northeastern, I was lab manager of the [Developmental Affective
 Neuroscience Lab](https://danlab.psychology.columbia.edu/)
