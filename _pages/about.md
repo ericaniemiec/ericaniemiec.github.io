@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-![](/images/headshot_flowers.jpeg)
+<div style="padding-left: 2em;" markdown="1">
 
-![](/images/your_brain.JPG)
+![](/images/headshot_flowers.jpeg){: style="width: 50%; display: block; margin: 0 auto;"}
+
+![](/images/your_brain.JPG){: style="width: 50%; display: block; margin: 0 auto;"}
 
 I'm a PhD student in Psychology at Northeastern University, working in the
 [Learning and Brain Development Lab](https://lbdlpsych.sites.northeastern.edu/)
@@ -29,3 +31,5 @@ headed by Dr. Nim Tottenham at Columbia University, studying cognitive and emoti
 following early-life adversity. Earlier, I worked in education teaching math and supporting school operations.
 
 The best way to reach me is by email.
+
+</div>
