@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="padding-left: 2em;" markdown="1">
+<div style="padding: 0 2em;" markdown="1">
 
 <div style="display: flex; gap: 1em; align-items: flex-start;">
   <img src="/images/headshot_flowers.jpeg" style="flex: 1.33; min-width: 0; height: auto;">
