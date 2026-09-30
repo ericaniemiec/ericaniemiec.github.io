@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![](/images/headshot_flowers.JPG)
+![](/images/headshot_flowers.jpeg)
 
 ![](/images/your_brain.JPG)
 
