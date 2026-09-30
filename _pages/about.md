@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-![](/images/headshot_flowers.jpg)
+![](/images/headshot_flowers.JPG)
 
-![](/images/your_brain.jpg)
+![](/images/your_brain.JPG)
 
 I'm a PhD student in Psychology at Northeastern University, working in the
 [Learning and Brain Development Lab](https://lbdlpsych.sites.northeastern.edu/)
@@ -18,7 +18,7 @@ learning and goal-directed behavior develop across adolescence, and how social
 and prosocial motivations shape risky decision-making. My work combines
 behavioral tasks, computational modeling, and neuroimaging. 
 
-Broadly, I'm interested in change: 
+Broadly, I'm interested in **change**: 
 how is cognition influenced by changes around us, 
 how do we flexibly adapt to unpredictability, 
 and how do brain systems involved in learning and memory change through the lifespan?
