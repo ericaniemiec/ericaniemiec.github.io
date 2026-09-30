@@ -2,7 +2,7 @@
 title: 'Adolescent-specific adaptations to caregiving unpredictability: a longitudinal examination of cognitive flexibility'
 collection: publications
 category: manuscripts
-permalink: /publication/2026-01-01-adolescent-specific-adaptations-caregiving-unpredictability-longitudinal
+permalink: /publication/2026-03-12-adolescent-specific-adaptations-caregiving-unpredictability-longitudinal
 date: 2026-01-01
 venue: 'Developmental Psychology'
 paperurl: 'https://doi.org/10.1037/dev0002168'
