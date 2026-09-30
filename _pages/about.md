@@ -9,9 +9,9 @@ redirect_from:
 
 <div style="padding-left: 2em;" markdown="1">
 
-<div style="display: flex; gap: 1em; flex-wrap: wrap;">
-  <img src="/images/headshot_flowers.jpeg" style="flex: 1; min-width: 200px; height: 250px; object-fit: cover;">
-  <img src="/images/your_brain.JPG" style="flex: 1; min-width: 200px; height: 250px; object-fit: cover;">
+<div style="display: flex; gap: 1em; align-items: flex-start;">
+  <img src="/images/headshot_flowers.jpeg" style="flex: 1.33; min-width: 0; height: auto;">
+  <img src="/images/your_brain.JPG" style="flex: 0.93740340031; min-width: 0; height: auto;">
 </div>
 
 I'm a PhD student in Psychology at Northeastern University, working in the
@@ -22,8 +22,11 @@ and prosocial motivations shape risky decision-making. My work combines
 behavioral tasks, computational modeling, and neuroimaging. 
 
 Broadly, I'm interested in **change**: 
+
 &emsp;&emsp;how is cognition influenced by changes around us, 
+
 &emsp;&emsp;how do we flexibly adapt to unpredictability, 
+
 &emsp;&emsp;and how do brain systems involved in learning and memory change through the lifespan?
 
 Before Northeastern, I was lab manager of the [Developmental Affective
