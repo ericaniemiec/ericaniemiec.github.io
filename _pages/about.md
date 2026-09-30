@@ -10,8 +10,8 @@ redirect_from:
 <div style="padding-left: 2em;" markdown="1">
 
 <div style="display: flex; gap: 1em; flex-wrap: wrap;">
-  <img src="/images/headshot_flowers.jpeg" style="flex: 1; min-width: 200px;">
-  <img src="/images/your_brain.JPG" style="flex: 1; min-width: 200px;">
+  <img src="/images/headshot_flowers.jpeg" style="flex: 1; min-width: 200px; height: 250px; object-fit: cover;">
+  <img src="/images/your_brain.JPG" style="flex: 1; min-width: 200px; height: 250px; object-fit: cover;">
 </div>
 
 I'm a PhD student in Psychology at Northeastern University, working in the
