@@ -16,7 +16,9 @@ I'm a PhD student in Psychology at Northeastern University, working in the
 with Dr. Juliet Davidow. I study how neural systems supporting reward-related
 learning and goal-directed behavior develop across adolescence, and how social
 and prosocial motivations shape risky decision-making. My work combines
-behavioral tasks, computational modeling, and neuroimaging.
+behavioral tasks, computational modeling, and neuroimaging. 
+
+Broadly, I'm interested in change: how is cognition influenced by changes around us, how do we flexibly adapt to unpredictability, and how do brain systems involved in learning and memory change through the lifespan?
 
 Before Northeastern, I was lab manager of the Developmental Affective
 Neuroscience Lab at Columbia University, studying cognitive and emotional
