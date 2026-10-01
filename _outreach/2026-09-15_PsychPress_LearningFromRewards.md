@@ -1,5 +1,5 @@
 ---
-title: "How does the developing brain support learning from rewards"
+title: "How does the developing brain support learning from rewards?"
 collection: outreach
 permalink: /outreach/2026-09-15_PsychPress_LearningFromRewards
 date: 2026-09-15
